@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake Game
 
 ## Description
@@ -37,3 +38,6 @@ To play the game, ensure that you have Processing installed. Download the projec
 ## GamePlay
 
 [Watch the Gameplay Video](./Video_SnakeGame.mp4)
+=======
+Simple Snake Game on Processing 4
+>>>>>>> 2f1fbdc6cf22787a75b5b1fd23d748109a009ca0
